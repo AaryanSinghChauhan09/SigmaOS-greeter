@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-greeter"
+description = "SigmaOS subsystem component for greeter"
+version = "0.1.0"
+tier = 4
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
