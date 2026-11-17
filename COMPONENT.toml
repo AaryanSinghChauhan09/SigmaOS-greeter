@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-greeter"
-description = "SigmaOS subsystem component for greeter"
+description = "Slick login greeter with user list & a11y"
 version = "0.1.0"
 tier = 4
 
